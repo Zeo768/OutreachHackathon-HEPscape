@@ -7,7 +7,7 @@ German scripts (aus dem Englischen übersetzt von Tobias Fitschen)
 
 Setting: P1 in front of ATLAS layout
 
-Hallo, willkommen im CERN Forschungszentrum, die Heimat leistungsstärksten Teilchenbeschleuniger der Welt, in dem Teilchen beschleunigt und dann zum kollidieren gebracht werden.
+Hallo, willkommen im CERN Forschungszentrum, die Heimat des leistungsstärksten Teilchenbeschleuniger der Welt, in dem Teilchen beschleunigt und dann zum kollidieren gebracht werden.
 
 Wir befinden uns in Genf, in der Schweiz. Dieses weltweit einzigartige Experiment, der Large Hadron Collider, befindet sich unter uns tief in der Erde. Hinter mir könnt ihr ein fast lebensgroßes Bild eines der Experimente sehen, die die Kollisionen der Teilchen messen.
 
