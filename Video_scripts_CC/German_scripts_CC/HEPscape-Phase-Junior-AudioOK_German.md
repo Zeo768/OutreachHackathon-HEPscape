@@ -1,4 +1,4 @@
-Italian scripts (original)
+German scripts (aus dem Englischen übersätzt von Tobias Fitschen)
 ===
 
 # HEPscape-Phase3-Junior-AudioOK.mp4
@@ -7,95 +7,93 @@ Italian scripts (original)
 
 Setting: P1 in front of ATLAS layout
 
-Salve, Benvenuti e benvenute nel sito sperimentale del CERN, dove e' in funzione l'acceleratore di particelle piu' potente al mondo, all'interno del quale si muovono e si scontrano le particelle. 
+Hallo, willkommen im CERN Forschungszentrum, die Heimat leistungsstärksten Teilchenbeschleuniger der Welt, in dem Teilchen beschleunigt und dann zum kollidieren gebracht werden.
 
-Ci troviamo vicino alla città’ di Ginevra, in Svizzera, e questo esperimento unico al mondo, chiamato Large Hadron Collider o LHC, e’ costruito sotto terra. Alle mie spalle vedete in grandezza quasi naturale l’immagine di uno dei quattro esperimenti che vengono usati per  misurare le particelle delle collisioni. 
-
-Abbiamo parlato gia’ troppo, quindi diamoci da fare. 
-
-Oggi vi porteremo nel nostro mondo sotterraneo e diventerete ricercatori per un giorno. Vedo gia’ che indossate il caschetto di protezione, cercate il pulsante per chiamare l’ascensore che scendiamo. 
+Wir befinden uns in Genf, in der Schweiz. Dieses weltweit einzigartige Experiment, der Large Hadron Collider, befindet sich unter uns tief in der Erde. Hinter mir könnt ihr ein fast lebensgroßes Bild eines der Experimente sehen, die die Kollisionen der Teilchen messen.
 
 ## Second video: Sabrina  Giorgetti (P5) 1:42 to 2:01
 
 Setting: P5, out of the elevator
 
-[Sabrina esce dall'ascensore e si gira]
+[Sabrina verlässt den Aufzug und dreht sich um]
 
-Eccovi, adesso che siete usciti dall'ascensore indossate il badge per entrare nella sala di controllo. Se non avete il badge,
+Da seit ihr ja. Nun, da ihr den Aufzug verlassen habt legt eure Zugangskarten an und tretet ein in den Kontrollraum. Falls ihr keine Zugangskarte habt...
 
-[Sabrina mostra il badge]
+[Sabrina zeigt die Zugangskarte]
 
-cercate nella stanza il manuale che spieghi quali sono le procedure per entrare nella sala di controllo, e raggiungetemi non appena avete trovato i vostri badge. 
+... schaut euch im Raum um und sucht das Handbuch, das die Vorschriften um in den Kontrollraum zu gelangen erklärt. Folgt mir sobald ihr eure Zugangskarte habt.
 
 ## Third video: Chiara Basi  (P5) 2:20 to 3:05
 
 Setting: P5, in front of control room button set
 
-Benvenuti, vi trovate nella sala di controllo di uno degli esperimenti che prende dati dall'LHC. Qui, gli scienziati e le scienziate, come se fossero i membri della ciurma di una nave, fanno funzionare l'esperimento e prendono dati. Qui accanto a me vedete un pannello che vi mostra qual e' lo stato dell'esperimento al momento. Se tutto va bene, le luci sono verdi, altrimenti qualche luce diventera' rossa. 
+Willkommen. Ihr seit nun im Kontrollraum eines der Experimente, das Daten vom LHC aufnimmt. Hier arbeiten WissenschaftlerInnen zusammen, genau wie die Besatzung eines großen Schiffes. Sie betreiben das Experiment und nehmen Daten auf. Hier, neben mir, könnt ihr ein Panel sehen, das euch den momentanen Status des Experimentes zeigt. Wenn alles gut geht werden die Lichter grün. Falls nicht, werden einige von ihnen rot.
 
-[sirena]
+[Eine Sirene ertönt]
 
-Ecco appunto, sembra che ci sia un problema ai magneti superconduttori dell'LHC. Pero' adesso ci serve qualcuno che vi spieghi come fare a risolvere il problema. 
+Genau! Es scheint ein Problem mit den Supraleitenden Magneten des LHC zu geben. Jetzt brauchen wir jemanden, der erklären kann wo das Problem ist.
 
 ## Fourth video: Sabrina  Giorgetti (P5) 3:06 to 4:10
 
-Setting: P5, upstairs, near open magnet 
+Setting: P5, upstairs, near open Magnet 
 
-Questo che vedete qui e' l'interno di uno dei magneti dell'LHC. I famosi tubi blu che spesso si vedono nelle foto sono in realta' dei giganteschi magneti superconduttori che servono per mantenere le particelle che girano all'interno dell'acceleratore su una traiettoria circolare, una grande circonferenza, la circonferenza dell'LHC. Questi magneti sono molto speciali, e per funzionare devono essere mantenuti a temperature bassissime. Ma sapete quanto basse? Aiutatemi a scoprirlo e troviamo la combinazione giusta per far ripartire insieme LHC. 
+Was ihr hier seht ist das innere des LHC Magneten. Diese berühmten blauen Röhren, die ihr vielleicht schon einmal in Fotos gesehen habt, sind gigantische supraleitende Magnete die dafür genutzt werden um die Teilchen im Beschleuniger auf ihrer Kreisbahn zu halten, und das über den gesamten Umfang des LHC. Diese Magnete sind sehr besonders. Um zu funktionieren müssen sie auf sehr niedrige Temperaturen heruntergekühlt werden. Aber wisst ihr auf welche Temperatur genau? Hilft mir die richtige Zahlenkombination zu finden um den LHC wieder starten zu können.
 
-[Robotic voice:]
-Temperatura inserita correttamente. I magneti di LHC sono pronti per le collisioni. 
+[Roboterstimme:]
+Temperatur korrekt eingegeben. Die LHC Magnete sind bereit für Kollisionen.
 
-[Back to Sabrina]
+[Zurück zu Sabrina]
 
-Benissimo, abbiamo settato la temperatura giusta e i magneti sono pronti per l'inserimento del fascio di particelle. Ma sbaglio o mancano ancora dei pezzi del puzzle? Il nostro lavoro non e' finito. Ma prima vediamo a cosa servono questi magneti. 
+Wunderbar! Wir haben die richtige Temperatur eingegeben. Die Magnete sind nun bereit für die Einfügung des Teilchenstrahls. Aber täusche ich mich oder fehlt hier immer noch ein Puzzleteil? Unsere Arbeit hier ist noch nicht getan. Aber zuerst, lasst uns sehen wofür diese Magnete gut sind.
 
 ## Fifth video: Simone Francescato (P1) 4:10 to 4:50
 
 Setting: R1, in front of LHC beam
 
-Questi magneti, messi in fila uno dietro l'altro lungo una circonferenza di 27km, formano appunto l'acceleratore. All'interno, ruotano in due direzioni opposte le particelle che si scontrano poi in prossimita' dei quattro esperimenti principali, producendo le collisioni. 
+Diese Magnete sind einer-nach-dem-anderen entlang des 27 km Umfangs des Beschleunigers aufgereiht. Darin rotieren die Teilchen in entgegengesetzter Richtung und kollidieren bei den vier Haupt-Experimenten die diese Kollisionen untersuchen. 
 
-Dovete sapere che tutto il mondo delle particelle e' descritto da una teoria elegante e bellissima, che chiamiamo il modello standard delle particelle elementari. 
+Ihr solltet wissen, dass die gesamte Welt der Teilchen durch eine elegante Theorie beschrieben werden kann. Wir nennen sie das Standard Model der Teilchenphysik.
 
-Ma tra tutte queste particelle, quali sono quelle giuste da inserire nell'LHC? Avanti, un ultimo sforzo, aiutateci a capirlo. 
+Aber welche von all diesen Teilchen sind die richtigen um sie in den LHC einzuführen? Kommt, helft uns noch ein letztes mal das herauszufinden.
 
 ## Sixth video: Chiara Basi  (P1) 5:10 to 6:17
 
 Setting: P5, in front of control room button set
 
-Bene, avete ricostruito tutti i puzzles e i magneti e i protoni sono finalmente di nuovo al loro posto. Ora possiamo far ripartire le collisioni all'LHC.
-Ma vi siete mai chiesti a cosa servono queste collisioni? Non ne siete un po' curiosi?
+Nun habt ihr alle Rätsel gelöst und die Magnete und die Protonen sind endlich wieder wo sie hingehören. Nun können die Kollisionen am LHC wieder starten.
 
-[only audio recording]
+Aber habt ihr euch je gefragt wofür diese Kollisionen überhaupt gut sind? Seit ihr nicht ein wenig neugierig?
 
-Prendete i protoni all'LHC e fateli scontrare quasi alla velocita' della luce l'uno contro l'altro. Quando si scontrano in prossimita' degli esperimenti, i quark al loro interno interagiscono e producono il bosone di Higgs, una nuova particella con una massa di 125 volte la massa del protone.
+[Audioaufzeichnung]
 
-[back to Chiara]
+Die Protonen am LHC werden mit nahezu Lichtgeschwindigkeit aufeinander geschossen. Wenn sie innerhalb der Experimente miteinander kollidieren, interagieren die Quarks in ihnen miteinander und erzeugen das Higgs boson, ein neues Teilchen mit einer Masse die 125 mal so groß ist wie die des Protons.
 
-OK spingiamo il pulsante per far partire l'esperimento. Trovate voi il pulsante nella stanza e fate partire l'LHC con noi.
+[zurück zu Chiara]
 
-[countdown]
+Ok, lasst uns den Knopf drücken um das Experiment zu starten. Ihr findet den Knopf hier im Raum. Schaltet den LHC an.
 
-[robotic voice] Inserimento del fascio di protoni nel Large Hadron Collider.
+[Countdown]
+
+[Roboterstimme] Einführung des Protonenstrahls in den Large Hadron Collider.
 
 ## Seventh video: Maria Elena Ascioti (meeting room) 7:13 to 4:50
 
 Setting: conference room with slide in the backdrop
 
-E quindi, finalmente, come vi dicevo, abbiamo trovato il bosone di Higgs la cui massa è......la cui massa e'....scusate un secondo devo fare una chiamata.
+Und so, letztendlich, wie ich es euch gesagt habe, haben wir das Higgs boson gefunden mit einer Masse von... mit einer Masse von... Entschuldigt mich einen Moment. Ich muss kurz telefonieren.
 
-[ring, about 5 seconds]
 
-Pronto ragazzi di HEPscape, aiuto aiuto. 
-Mi serve un'informazione. 
-Sapete darmi una mano per favore? Quanto vale la massa del bosone di Higgs? 
-Più forte non vi sento. 
-Più forte? 
-Grazie mille, grazie mille, grazie!
+[Telefonklingeln, eta 5 Sekunden lang]
 
-[mette giu' il telefono]
+Hallo TeilnehmerInnen von HEPscape, Hilfe Hilfe.
+Ich brauche Informationen.
+Könnt ihr mir bitte helfen? Was ist die Masse des Higgs bosons?
+Ich kann euch nicht hören. Lauter bitte.
+Lauter?
+Danke, vielen Dank!
 
-Ok scusatemi ci sono. Quindi come dicevamo abbiamo trovato il bosone di Higgs la cui massa risulta essere 125 GeV. 
+[legt das Telefon auf]
 
-Con questo vi ringrazio per la partecipazione e per l'attenzione.
+Ok, Entschuldigung, da bin ich wieder. Also, wie ich bereits sagte, haben wir das Higgs boson gefunden mit einer Masse von 125 GeV.
+
+Damit danke ich euch für eure Teilnahme und eure Aufmerksamkeit!
