@@ -1,4 +1,4 @@
-Italian scripts (original)
+Spanish scripts (original)
 ===
 
 # HEPscape-Phase3-Junior-AudioOK.mp4
@@ -7,13 +7,13 @@ Italian scripts (original)
 
 Setting: P1 in front of ATLAS layout
 
-Salve, Benvenuti e benvenute nel sito sperimentale del CERN, dove e' in funzione l'acceleratore di particelle piu' potente al mondo, all'interno del quale si muovono e si scontrano le particelle. 
+Hola, Bienvenido al sitio experimental del CERN, donde opera el acelerador de partículas más poderoso del mundo, dentro del cual las partículas se mueven y colisionan.
 
-Ci troviamo vicino alla città’ di Ginevra, in Svizzera, e questo esperimento unico al mondo, chiamato Large Hadron Collider o LHC, e’ costruito sotto terra. Alle mie spalle vedete in grandezza quasi naturale l’immagine di uno dei quattro esperimenti che vengono usati per  misurare le particelle delle collisioni. 
+Estamos ubicados cerca de la ciudad de Ginebra, Suiza, y este experimento único en el mundo, llamado Gran Colisionador de Hadrones o LHC, está construido bajo tierra. Detrás de mí ves una imagen casi a tamaño real de uno de los cuatro experimentos utilizados para medir partículas de colisión.
 
-Abbiamo parlato gia’ troppo, quindi diamoci da fare. 
+Ya hemos hablado demasiado, así que pongámonos manos a la obra.
 
-Oggi vi porteremo nel nostro mondo sotterraneo e diventerete ricercatori per un giorno. Vedo gia’ che indossate il caschetto di protezione, cercate il pulsante per chiamare l’ascensore che scendiamo. 
+Hoy os llevaremos a nuestro mundo subterráneo y os convertiréis en investigadores por un día. Ya puedo ver que llevas el casco protector, busquen el botón para llamar al ascensor para bajar. 
 
 ## Second video: Sabrina  Giorgetti (P5) 1:42 to 2:01
 
@@ -21,81 +21,81 @@ Setting: P5, out of the elevator
 
 [Sabrina esce dall'ascensore e si gira]
 
-Eccovi, adesso che siete usciti dall'ascensore indossate il badge per entrare nella sala di controllo. Se non avete il badge,
+Aquí estás, ahora que has salido del ascensor, ponte tu placa para entrar a la sala de control. Si no tienes una placa,
 
 [Sabrina mostra il badge]
 
-cercate nella stanza il manuale che spieghi quali sono le procedure per entrare nella sala di controllo, e raggiungetemi non appena avete trovato i vostri badge. 
+Busca en la sala el manual que explica los procedimientos para ingresar a la sala de control y unete a mí tan pronto como hayas encontrado tus credenciales.
 
 ## Third video: Chiara Basi  (P5) 2:20 to 3:05
 
 Setting: P5, in front of control room button set
 
-Benvenuti, vi trovate nella sala di controllo di uno degli esperimenti che prende dati dall'LHC. Qui, gli scienziati e le scienziate, come se fossero i membri della ciurma di una nave, fanno funzionare l'esperimento e prendono dati. Qui accanto a me vedete un pannello che vi mostra qual e' lo stato dell'esperimento al momento. Se tutto va bene, le luci sono verdi, altrimenti qualche luce diventera' rossa. 
+Bienvenido, estás en la sala de control de uno de los experimentos que toma datos del LHC. Aquí, científicos y científicas, como si fueran miembros de la tripulación de un barco, realizan el experimento y toman datos. Aquí a mi lado ves un panel que te muestra cuál es el estado del experimento en este momento. Si todo va bien, las luces son verdes, de lo contrario algunas luces se pondrán rojas.
 
 [sirena]
 
-Ecco appunto, sembra che ci sia un problema ai magneti superconduttori dell'LHC. Pero' adesso ci serve qualcuno che vi spieghi come fare a risolvere il problema. 
+Exacto, parece que hay un problema con los imanes superconductores del LHC. Pero ahora necesitamos que alguien nos explique cómo solucionar el problema. 
 
 ## Fourth video: Sabrina  Giorgetti (P5) 3:06 to 4:10
 
 Setting: P5, upstairs, near open magnet 
 
-Questo che vedete qui e' l'interno di uno dei magneti dell'LHC. I famosi tubi blu che spesso si vedono nelle foto sono in realta' dei giganteschi magneti superconduttori che servono per mantenere le particelle che girano all'interno dell'acceleratore su una traiettoria circolare, una grande circonferenza, la circonferenza dell'LHC. Questi magneti sono molto speciali, e per funzionare devono essere mantenuti a temperature bassissime. Ma sapete quanto basse? Aiutatemi a scoprirlo e troviamo la combinazione giusta per far ripartire insieme LHC. 
+Lo que ves aquí es el interior de uno de los imanes del LHC. Los famosos tubos azules que se ven a menudo en las fotos son en realidad gigantescos imanes superconductores que sirven para mantener las partículas girando dentro del acelerador en una trayectoria circular, de gran circunferencia, la circunferencia del LHC. Estos imanes son muy especiales, y para que funcionen hay que mantenerlos a temperaturas muy bajas. ¿Pero sabes qué tan bajo? Ayúdame a descubrirlo y encontremos la combinación adecuada para reiniciar juntos el LHC. 
 
 [Robotic voice:]
-Temperatura inserita correttamente. I magneti di LHC sono pronti per le collisioni. 
+Temperatura ingresada correctamente. Los imanes del LHC están listos para colisionar.
 
 [Back to Sabrina]
 
-Benissimo, abbiamo settato la temperatura giusta e i magneti sono pronti per l'inserimento del fascio di particelle. Ma sbaglio o mancano ancora dei pezzi del puzzle? Il nostro lavoro non e' finito. Ma prima vediamo a cosa servono questi magneti. 
+Genial, hemos configurado la temperatura correcta y los imanes están listos para la inserción del haz de partículas. ¿Pero me equivoco o todavía faltan algunas piezas del rompecabezas? Nuestro trabajo no ha terminado. Pero primero veamos para qué sirven estos imanes. 
 
 ## Fifth video: Simone Francescato (P1) 4:10 to 4:50
 
 Setting: R1, in front of LHC beam
 
-Questi magneti, messi in fila uno dietro l'altro lungo una circonferenza di 27km, formano appunto l'acceleratore. All'interno, ruotano in due direzioni opposte le particelle che si scontrano poi in prossimita' dei quattro esperimenti principali, producendo le collisioni. 
+Estos imanes, alineados uno detrás de otro a lo largo de una circunferencia de 27 kilómetros, forman el acelerador. En el interior, las partículas giran en dos direcciones opuestas y luego colisionan cerca de los cuatro experimentos principales, produciendo las colisiones. 
 
-Dovete sapere che tutto il mondo delle particelle e' descritto da una teoria elegante e bellissima, che chiamiamo il modello standard delle particelle elementari. 
+Debes saber que todo el mundo de las partículas está descrito por una teoría elegante y hermosa, que llamamos modelo estándar de partículas elementales.
 
-Ma tra tutte queste particelle, quali sono quelle giuste da inserire nell'LHC? Avanti, un ultimo sforzo, aiutateci a capirlo. 
+Pero entre todas estas partículas, ¿cuáles son las adecuadas para insertar en el LHC? Vamos, un último esfuerzo, ayúdanos a entenderlo.
 
 ## Sixth video: Chiara Basi  (P1) 5:10 to 6:17
 
 Setting: P5, in front of control room button set
 
-Bene, avete ricostruito tutti i puzzles e i magneti e i protoni sono finalmente di nuovo al loro posto. Ora possiamo far ripartire le collisioni all'LHC.
-Ma vi siete mai chiesti a cosa servono queste collisioni? Non ne siete un po' curiosi?
+Bueno, has reconstruido todos los rompecabezas y los imanes y protones finalmente están de vuelta en su lugar. Ahora podemos reiniciar las colisiones en el LHC.
+¿Pero alguna vez te has preguntado para qué sirven estas colisiones? ¿No tienes un poco de curiosidad?
 
 [only audio recording]
 
-Prendete i protoni all'LHC e fateli scontrare quasi alla velocita' della luce l'uno contro l'altro. Quando si scontrano in prossimita' degli esperimenti, i quark al loro interno interagiscono e producono il bosone di Higgs, una nuova particella con una massa di 125 volte la massa del protone.
+Tomemos protones en el LHC y colisionemoslos entre sí casi a la velocidad de la luz. Cuando colisionana cerca de los experimentos, los quarks dentro de ellos interactúan y producen el bosón de Higgs, una nueva partícula con una masa 125 veces mayor que la del protón.
 
 [back to Chiara]
 
-OK spingiamo il pulsante per far partire l'esperimento. Trovate voi il pulsante nella stanza e fate partire l'LHC con noi.
+Bien, presionemos el botón para iniciar el experimento. Encuentra el botón en la habitación y pon en marcha el LHC con nosotros.
 
 [countdown]
 
-[robotic voice] Inserimento del fascio di protoni nel Large Hadron Collider.
+[robotic voice] Inserción del haz de protones en el Gran Colisionador de Hadrones.
 
 ## Seventh video: Maria Elena Ascioti (meeting room) 7:13 to 4:50
 
 Setting: conference room with slide in the backdrop
 
-E quindi, finalmente, come vi dicevo, abbiamo trovato il bosone di Higgs la cui massa è......la cui massa e'....scusate un secondo devo fare una chiamata.
+Y así, finalmente, como os decía, hemos encontrado el bosón de Higgs cuya masa es...cuya masa es...disculpen un segundo, tengo que hacer una llamada.
 
 [ring, about 5 seconds]
 
-Pronto ragazzi di HEPscape, aiuto aiuto. 
-Mi serve un'informazione. 
-Sapete darmi una mano per favore? Quanto vale la massa del bosone di Higgs? 
-Più forte non vi sento. 
-Più forte? 
-Grazie mille, grazie mille, grazie!
+Hola chicos de HEPscape, ayuda, ayuda.
+Necesito alguna información.
+¿Puedes darme una mano por favor? ¿Cuál es la masa del bosón de Higgs?
+Más fuerte, no puedo oírte.
+¿Más fuerte?
+¡Muchas gracias, muchas gracias, gracias!
 
 [mette giu' il telefono]
 
-Ok scusatemi ci sono. Quindi come dicevamo abbiamo trovato il bosone di Higgs la cui massa risulta essere 125 GeV. 
+Ok lo siento, estoy aquí. Entonces, como decíamos, encontramos el bosón de Higgs cuya masa resulta ser de 125 GeV.
 
-Con questo vi ringrazio per la partecipazione e per l'attenzione.
+Con esto les agradezco su participación y atención.
