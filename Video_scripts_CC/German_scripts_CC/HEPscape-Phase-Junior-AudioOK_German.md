@@ -1,4 +1,4 @@
-German scripts (aus dem Englischen übersätzt von Tobias Fitschen)
+German scripts (aus dem Englischen übersetzt von Tobias Fitschen)
 ===
 
 # HEPscape-Phase3-Junior-AudioOK.mp4
