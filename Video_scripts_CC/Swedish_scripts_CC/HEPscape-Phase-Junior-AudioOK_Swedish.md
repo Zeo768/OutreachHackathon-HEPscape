@@ -7,95 +7,86 @@ Italian scripts (original)
 
 Setting: P1 in front of ATLAS layout
 
-Salve, Benvenuti e benvenute nel sito sperimentale del CERN, dove e' in funzione l'acceleratore di particelle piu' potente al mondo, all'interno del quale si muovono e si scontrano le particelle. 
+Hej, välkomna till CERN:s experimentområde, där världens mest kraftfulla partikelaccelerator, i vilken partiklar rör sig och kolliderar finns.
 
-Ci troviamo vicino alla città’ di Ginevra, in Svizzera, e questo esperimento unico al mondo, chiamato Large Hadron Collider o LHC, e’ costruito sotto terra. Alle mie spalle vedete in grandezza quasi naturale l’immagine di uno dei quattro esperimenti che vengono usati per  misurare le particelle delle collisioni. 
+Vi befinner oss nära staden Genève i Schweiz, och detta unika experiment, som kallas Large Hadron Collider eller LHC, är byggt under jord. Bakom mig kan ni se en bild i nästan naturlig storlek av ett av de fyra experiment som används för att mäta partiklarna som kommer från kollisionerna.
 
-Abbiamo parlato gia’ troppo, quindi diamoci da fare. 
+Vi har redan pratat för mycket, så låt oss gå vidare.
 
-Oggi vi porteremo nel nostro mondo sotterraneo e diventerete ricercatori per un giorno. Vedo gia’ che indossate il caschetto di protezione, cercate il pulsante per chiamare l’ascensore che scendiamo. 
+I dag ska vi ta med er in i vår underjordiska värld och ni ska bli forskare för en dag. Jag ser redan att ni har på er era skyddshjälmar, håll utkik efter knappen för att kalla ner hissen.
 
 ## Second video: Sabrina  Giorgetti (P5) 1:42 to 2:01
 
 Setting: P5, out of the elevator
 
-[Sabrina esce dall'ascensore e si gira]
+[Sabrina går ut ur hissen och vänder sig om]
 
-Eccovi, adesso che siete usciti dall'ascensore indossate il badge per entrare nella sala di controllo. Se non avete il badge,
+Så där ja, nu när du har gått ut ur hissen ska du sätta på dig din bricka för att komma in i kontrollrummet. Om du inte har någon bricka,
 
-[Sabrina mostra il badge]
+[Sabrina visar sin bricka]
 
-cercate nella stanza il manuale che spieghi quali sono le procedure per entrare nella sala di controllo, e raggiungetemi non appena avete trovato i vostri badge. 
+leta runt i rummet efter manualen som förklarar hur man går in i kontrollrummet, och kom till mig så fort ni hittar era brickor.
 
 ## Third video: Chiara Basi  (P5) 2:20 to 3:05
 
 Setting: P5, in front of control room button set
 
-Benvenuti, vi trovate nella sala di controllo di uno degli esperimenti che prende dati dall'LHC. Qui, gli scienziati e le scienziate, come se fossero i membri della ciurma di una nave, fanno funzionare l'esperimento e prendono dati. Qui accanto a me vedete un pannello che vi mostra qual e' lo stato dell'esperimento al momento. Se tutto va bene, le luci sono verdi, altrimenti qualche luce diventera' rossa. 
+Välkommen, du befinner dig i kontrollrummet för ett av experimenten som tar emot data från LHC. Här kör forskare, som om de vore besättningsmedlemmar på ett fartyg, experimentet och tar data. Här bredvid mig ser du en panel som visar vilken status experimentet har för tillfället. Om allt går bra är lamporna gröna, annars kommer vissa lampor att bli röda.
 
-[sirena]
+[siren tjuter]
 
-Ecco appunto, sembra che ci sia un problema ai magneti superconduttori dell'LHC. Pero' adesso ci serve qualcuno che vi spieghi come fare a risolvere il problema. 
+Det stämmer, det verkar finnas ett problem med LHC:s supraledande magneter. Men nu behöver vi någon som kan förklara hur vi ska åtgärda det.
 
 ## Fourth video: Sabrina  Giorgetti (P5) 3:06 to 4:10
 
 Setting: P5, upstairs, near open magnet 
 
-Questo che vedete qui e' l'interno di uno dei magneti dell'LHC. I famosi tubi blu che spesso si vedono nelle foto sono in realta' dei giganteschi magneti superconduttori che servono per mantenere le particelle che girano all'interno dell'acceleratore su una traiettoria circolare, una grande circonferenza, la circonferenza dell'LHC. Questi magneti sono molto speciali, e per funzionare devono essere mantenuti a temperature bassissime. Ma sapete quanto basse? Aiutatemi a scoprirlo e troviamo la combinazione giusta per far ripartire insieme LHC. 
+Det du ser här är insidan av en av magneterna vid LHC. De berömda blå rören som du ofta ser på foton är faktiskt gigantiska supraledande magneter som används för att hålla partiklarna på en cirkulär bana inuti acceleratorn, en stor omkrets, LHC:s omkrets. Dessa magneter är mycket speciella och de måste hållas vid mycket låga temperaturer för att fungera. Men vet du hur låga de är? Hjälp mig att ta reda på det och låt oss hitta rätt kombination för att få igång LHC igen.
 
-[Robotic voice:]
-Temperatura inserita correttamente. I magneti di LHC sono pronti per le collisioni. 
+[Robotröst:] Temperatur inställd korrekt. LHC-magneterna är redo för kollisioner.
 
-[Back to Sabrina]
+[Tillbaka till Sabrina]
 
-Benissimo, abbiamo settato la temperatura giusta e i magneti sono pronti per l'inserimento del fascio di particelle. Ma sbaglio o mancano ancora dei pezzi del puzzle? Il nostro lavoro non e' finito. Ma prima vediamo a cosa servono questi magneti. 
+Mycket bra, vi har ställt in rätt temperatur och magneterna är redo för införande av partikelstrålen. Men har jag fel eller saknas det fortfarande pusselbitar? Vårt arbete är inte färdigt. Men låt oss först se vad dessa magneter är till för.
 
 ## Fifth video: Simone Francescato (P1) 4:10 to 4:50
 
 Setting: R1, in front of LHC beam
 
-Questi magneti, messi in fila uno dietro l'altro lungo una circonferenza di 27km, formano appunto l'acceleratore. All'interno, ruotano in due direzioni opposte le particelle che si scontrano poi in prossimita' dei quattro esperimenti principali, producendo le collisioni. 
+Dessa magneter, som är uppradade bakom varandra längs en omkrets på 27 km, bildar acceleratorn. Inuti roterar de partiklar i två motsatta riktningar, som sedan kolliderar i närheten av de fyra huvudexperimenten.
 
-Dovete sapere che tutto il mondo delle particelle e' descritto da una teoria elegante e bellissima, che chiamiamo il modello standard delle particelle elementari. 
+Du måste veta att hela partikelvärlden beskrivs av en elegant och vacker teori, som vi kallar standardmodellen.
 
-Ma tra tutte queste particelle, quali sono quelle giuste da inserire nell'LHC? Avanti, un ultimo sforzo, aiutateci a capirlo. 
+Men vilka av alla dessa partiklar är de rätta att placera i LHC? Kom igen, en sista ansträngning, hjälp oss att räkna ut det.
 
 ## Sixth video: Chiara Basi  (P1) 5:10 to 6:17
 
 Setting: P5, in front of control room button set
 
-Bene, avete ricostruito tutti i puzzles e i magneti e i protoni sono finalmente di nuovo al loro posto. Ora possiamo far ripartire le collisioni all'LHC.
-Ma vi siete mai chiesti a cosa servono queste collisioni? Non ne siete un po' curiosi?
+Ni har byggt om alla pussel och magneterna och protonerna är äntligen tillbaka på plats. Vi kan nu starta om kollisionerna vid LHC. Men har du någonsin undrat vad dessa kollisioner är till för? Är du inte lite nyfiken?
 
-[only audio recording]
+[endast ljudinspelning].
 
-Prendete i protoni all'LHC e fateli scontrare quasi alla velocita' della luce l'uno contro l'altro. Quando si scontrano in prossimita' degli esperimenti, i quark al loro interno interagiscono e producono il bosone di Higgs, una nuova particella con una massa di 125 volte la massa del protone.
+Ta protonerna i LHC och låt dem kollidera nästan med ljusets hastighet mot varandra. När de kolliderar nära experimenten interagerar kvarkarna inuti dem och producerar Higgs-bosonen, en ny partikel med 125 gånger protonens massa.
 
-[back to Chiara]
+[tillbaka till Chiara].
 
-OK spingiamo il pulsante per far partire l'esperimento. Trovate voi il pulsante nella stanza e fate partire l'LHC con noi.
+OK, vi trycker på knappen för att starta experimentet. Du hittar knappen i rummet och startar LHC tillsammans med oss.
 
-[countdown]
+[nedräkning].
 
-[robotic voice] Inserimento del fascio di protoni nel Large Hadron Collider.
+[robotröst] Protonstrålen sätts in i Large Hadron Collider.
 
 ## Seventh video: Maria Elena Ascioti (meeting room) 7:13 to 4:50
 
-Setting: conference room with slide in the backdrop
+Och så, slutligen, som jag sa till er, har vi hittat Higgsbosonen vars massa är ...... vars massa är .... ursäkta mig en sekund jag måste ringa ett samtal.
 
-E quindi, finalmente, come vi dicevo, abbiamo trovato il bosone di Higgs la cui massa è......la cui massa e'....scusate un secondo devo fare una chiamata.
+[ring, ca 5 sekunder]
 
-[ring, about 5 seconds]
+Hallå HEPscape deltagare! Jag behöver lite information. Kan ni hjälpa mig snälla? Vad är massan av Higgsbosonen? Högre, jag kan inte höra er. Högre? Tack så mycket, tack så mycket!
 
-Pronto ragazzi di HEPscape, aiuto aiuto. 
-Mi serve un'informazione. 
-Sapete darmi una mano per favore? Quanto vale la massa del bosone di Higgs? 
-Più forte non vi sento. 
-Più forte? 
-Grazie mille, grazie mille, grazie!
+[lägger ner telefonen]
 
-[mette giu' il telefono]
+Okej, ursäkta mig, jag har det. Så som vi sa så har vi hittat Higgsbosonen vars massa visar sig vara 125 GeV.
 
-Ok scusatemi ci sono. Quindi come dicevamo abbiamo trovato il bosone di Higgs la cui massa risulta essere 125 GeV. 
-
-Con questo vi ringrazio per la partecipazione e per l'attenzione.
+Med det tackar jag er för ert deltagande och er uppmärksamhet.
