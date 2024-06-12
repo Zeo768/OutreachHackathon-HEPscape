@@ -1,4 +1,4 @@
-Italian scripts (original)
+Thai scripts
 ===
 
 # HEPscape-Phase3-Junior-AudioOK.mp4
@@ -7,95 +7,100 @@ Italian scripts (original)
 
 Setting: P1 in front of ATLAS layout
 
-Salve, Benvenuti e benvenute nel sito sperimentale del CERN, dove e' in funzione l'acceleratore di particelle piu' potente al mondo, all'interno del quale si muovono e si scontrano le particelle. 
+สวัสดีครับ/ค่ะ ขอต้อนรับสู่องค์กรวิจัยนิวเคลียร์แห่งยุโรปหรือเซิร์น (CERN) ที่นี่เป็นที่ตั้งของเครื่องเร่งอนุภาคที่ทรงพลังที่สุดในโลก ซึ่งในเครื่องนี้อนุภาคเคลี่อนที่ไปมาและเกิดการชนกัน
 
-Ci troviamo vicino alla città’ di Ginevra, in Svizzera, e questo esperimento unico al mondo, chiamato Large Hadron Collider o LHC, e’ costruito sotto terra. Alle mie spalle vedete in grandezza quasi naturale l’immagine di uno dei quattro esperimenti che vengono usati per  misurare le particelle delle collisioni. 
+เซิร์นตั้งอยู่ใกล้กับเมืองเจนีวา ประเทศสวิตเซอร์แลนด์ Large Hadron Collider หรือ LHC เป็นการทดลองหลักของเซิร์น สร้างอยู่ใต้ดินนี้ ด้านหลังของฉันคือภาพวาดเกือบเท่าขนาดจริงของหนึ่งในสี่สถานีการทดลองขนาดใหญ่ที่ใช้ตรวจจับสัญญาณจากการชนกันของอนุภาค
 
-Abbiamo parlato gia’ troppo, quindi diamoci da fare. 
+เราพูดกันมาพอสมควรแล้ว มาลงมือปฏิบัติกันเถอะ！
 
-Oggi vi porteremo nel nostro mondo sotterraneo e diventerete ricercatori per un giorno. Vedo gia’ che indossate il caschetto di protezione, cercate il pulsante per chiamare l’ascensore che scendiamo. 
+วันนี้พวกเราจะพาคุณไปยังโลกใต้ดิน คุณจะได้ทดลองเป็นนักวิจัยหนึ่งวัน ฉันเห็นว่าคุณได้สวมหมวกป้องกันเรียบร้อยแล้ว ดีมาก！ ต่อไปลองหาปุ่มกดลิฟต์เพื่อลงไปยังชั้นใต้ดินกันเถอะ！
 
 ## Second video: Sabrina  Giorgetti (P5) 1:42 to 2:01
 
 Setting: P5, out of the elevator
 
-[Sabrina esce dall'ascensore e si gira]
+[Sabrina exits the elevator and turns around]
 
-Eccovi, adesso che siete usciti dall'ascensore indossate il badge per entrare nella sala di controllo. Se non avete il badge,
+เอาล่ะ ได้ลิฟต์พาพวกเรามาถึงชั้นใต้ดินแล้ว ใช้ป้ายชื่อของคุณเพื่อเข้าสู่ห้องควบคุม ถ้าคุณยังไม่มีป้ายชื่อละก็
 
-[Sabrina mostra il badge]
+[Sabrina shows the badge]
 
-cercate nella stanza il manuale che spieghi quali sono le procedure per entrare nella sala di controllo, e raggiungetemi non appena avete trovato i vostri badge. 
+ลองมองหาคู่มือในห้องนี้ซิ คู่มือนี้จะบอกขั้นตอนต่างๆในการเข้าห้องควบคุม เมื่อคุณได้รับป้ายชื่อมาแล้ว เดินเข้าสู่ห้องควบคุมด้วยกัน！
 
 ## Third video: Chiara Basi  (P5) 2:20 to 3:05
 
 Setting: P5, in front of control room button set
 
-Benvenuti, vi trovate nella sala di controllo di uno degli esperimenti che prende dati dall'LHC. Qui, gli scienziati e le scienziate, come se fossero i membri della ciurma di una nave, fanno funzionare l'esperimento e prendono dati. Qui accanto a me vedete un pannello che vi mostra qual e' lo stato dell'esperimento al momento. Se tutto va bene, le luci sono verdi, altrimenti qualche luce diventera' rossa. 
+ยินดีต้อนรับ ตอนนี้คุณอยู่ในหนึ่งในห้องควบคุมของเครื่องตรวจจับอนุภาคที่บันทึกสัญญาณข้อมูลจาก LHC ที่นี้นักวิทยาศาสตร์จากประเทศต่างทั่วโลกร่วมมือกันเป็นทีมเพื่อดำเนินการทดลองและบันทึกข้อมูล ตรงนี้ข้างๆฉันคือแผงแสดงสถานะตอนนี้ของเครื่องตรวจจับอนุภาค ถ้าทุกอย่างเรียบร้อยดี ไฟทุกดวงจะเป็นสีเขียว แต่ว่าถ้ามีปัญหา ไฟจะเปลี่ยนเป็นสีแดง
 
-[sirena]
+[siren alarm]
 
-Ecco appunto, sembra che ci sia un problema ai magneti superconduttori dell'LHC. Pero' adesso ci serve qualcuno che vi spieghi come fare a risolvere il problema. 
+เอ๊ะ นั่นไง เห็นไหม เหมือนว่าจะมีปัญหาเกิดขึ้นจริงๆแล้ว เหมือนว่าจะเป็นปัญหาที่แม่เหล็กตัวนำยุ่งยวดของ LHC นะ ตอนนี้เราต้องการคนที่จะมาอธิบายวิธีการแก้ไขปัญหานี้
 
 ## Fourth video: Sabrina  Giorgetti (P5) 3:06 to 4:10
 
 Setting: P5, upstairs, near open magnet 
 
-Questo che vedete qui e' l'interno di uno dei magneti dell'LHC. I famosi tubi blu che spesso si vedono nelle foto sono in realta' dei giganteschi magneti superconduttori che servono per mantenere le particelle che girano all'interno dell'acceleratore su una traiettoria circolare, una grande circonferenza, la circonferenza dell'LHC. Questi magneti sono molto speciali, e per funzionare devono essere mantenuti a temperature bassissime. Ma sapete quanto basse? Aiutatemi a scoprirlo e troviamo la combinazione giusta per far ripartire insieme LHC. 
+สิ่งที่คุณเห็นอยู่นี้คือด้านในของแม่เหล็กของ LHC คุณอาจจะเคยเห็นแท่งทรงกระบอกสีฟ้าเหล่านี้ จริงๆแล้วแท่งสีฟ้านี้คือแม่เหล็กตัวนำยุ่งยวดขนาดใหญ่ ที่ใช้บังคับอนุภาคให้หมุนวนภายในเครื่องเร่งอนุภาค เป็นวงกลมตามเส้นรอบวงขนาดใหญ่ของ LHC แม่เหล็กเหล่านี้พิเศษอย่างมาก เพราะว่าแม่เหล็กเหล่านี้สามารถทำงานได้ที่อุณหภูมิเย็นมากๆเท่านั้น คุณรู้ไหมว่าอุณหภูมิต้องเย็นแค่ไหน ช่วยฉันหาคำตอบนี้แล้วมาเริ่มเดินเครื่องเร่งอนุภาค LHC อีกครั้งกันเถอะ!
 
-[Robotic voice:]
-Temperatura inserita correttamente. I magneti di LHC sono pronti per le collisioni. 
+[Robotic voice]
+
+ป้อนค่าอุณหภูมิถูกต้อง แม่เหล็กของ LHC พร้อมแล้วสำหรับการชนอนุภาค
 
 [Back to Sabrina]
 
-Benissimo, abbiamo settato la temperatura giusta e i magneti sono pronti per l'inserimento del fascio di particelle. Ma sbaglio o mancano ancora dei pezzi del puzzle? Il nostro lavoro non e' finito. Ma prima vediamo a cosa servono questi magneti. 
+เยี่ยม! พวกเราตั้งค่าอุณหภูมิสำหรับแม่เหล็กได้ถูกต้อง และตอนนี้แม่เหล็กน่าจะพร้อมแล้วสำหรับการเติมอนุภาคเข้าไป เอ๊ะ ฉันอาจจะเข้าใจผิดไป แต่เหมือนว่ายังมีชิ้นส่วนของปริศนาที่ยังขาดไปอยู่นะ งานของพวกเรายังไม่เสร็จ แต่ว่าตอนนี้เราไปเรียนรู้ว่าแม่เหล็กเหล่านี้ใช้ทำอะไรบ้างกันก่อนดีกว่า
 
 ## Fifth video: Simone Francescato (P1) 4:10 to 4:50
 
 Setting: R1, in front of LHC beam
 
-Questi magneti, messi in fila uno dietro l'altro lungo una circonferenza di 27km, formano appunto l'acceleratore. All'interno, ruotano in due direzioni opposte le particelle che si scontrano poi in prossimita' dei quattro esperimenti principali, producendo le collisioni. 
+แม่เหล็กเหล่านี้เรียงตัวต่อกันตามแนวเส้นรอบวงยาว 27 กิโลเมตร ประกอบกันเป็นเครื่องเร่งอนุภาค LHC ภายในลำอนุภาคสองลำจะหมุนวนไปในทิศทางตรงกันข้ามกัน และสักพัก อนุภาคจะถูกบังคับให้ชนกันในจุดต่างๆ ใกล้กับสถานีการทดลองขนาดใหญ่ทั้งสี่ (เกิดเป็นการชนกันของอนุภาค)
 
-Dovete sapere che tutto il mondo delle particelle e' descritto da una teoria elegante e bellissima, che chiamiamo il modello standard delle particelle elementari. 
+คุณรู้ไหมว่าโลกของอนุภาคทั้งหมดอธิบายโดยทฤษฎีที่สวยและงดงาม? พวกเราเรียกว่าแบบจำลองมาตรฐานของอนุภาคพื้นฐาน
 
-Ma tra tutte queste particelle, quali sono quelle giuste da inserire nell'LHC? Avanti, un ultimo sforzo, aiutateci a capirlo. 
+แต่ว่าในบรรดาอนุภาคเหล่านี้ อนุภาคไหนล่ะที่เหมาะสมที่จะใส่เข้าไปใน LHC? มาสิ นี่คือปริศนาชิ้นสุดท้ายแล้ว มาช่วยกันหาคำตอบกันเถอะ!
+
 
 ## Sixth video: Chiara Basi  (P1) 5:10 to 6:17
 
 Setting: P5, in front of control room button set
 
-Bene, avete ricostruito tutti i puzzles e i magneti e i protoni sono finalmente di nuovo al loro posto. Ora possiamo far ripartire le collisioni all'LHC.
-Ma vi siete mai chiesti a cosa servono queste collisioni? Non ne siete un po' curiosi?
+ตอนนี้ ปริศนาทั้งหมดถูกแก้ไขแล้ว แม่เหล็กและโปรตอนกลับมาอยู่ในที่ที่ถูกต้อง เราสามารถเริ่มการชนอนุภาค LHC ได้อีกครั้งแล้วล่ะ!
+แต่ว่าคุณสงสัยไหมว่าทำไมเราถึงชนอนุภาคเหล่านี้? คุณไม่อยากรู้สักหน่อยหรือ?
 
 [only audio recording]
 
-Prendete i protoni all'LHC e fateli scontrare quasi alla velocita' della luce l'uno contro l'altro. Quando si scontrano in prossimita' degli esperimenti, i quark al loro interno interagiscono e producono il bosone di Higgs, una nuova particella con una massa di 125 volte la massa del protone.
+โปรตอนภายใน LHC เคลื่อนที่ด้วยความเร็วเกือบเท่ากับความเร็วแสง เมื่อโปรตอนเหล่านี้ชนกันใกล้กับสถานีการทดลอง ควาร์กภายในโปรตอนจะทำปฏิสัมพันธ์ต่อกันและสร้างฮิกส์โบซอน อนุภาคใหม่ที่มีมวลมากกว่าโปรตอนถึง 125 เท่า
 
 [back to Chiara]
 
-OK spingiamo il pulsante per far partire l'esperimento. Trovate voi il pulsante nella stanza e fate partire l'LHC con noi.
+เอาล่ะ มากดปุ่มเพื่อเริ่มการทดลองกันเถอะ คุณจะพบปุ่มในห้องเพื่อเริ่มเดินเครื่อง LHC อีกครั้งด้วยกันกับพวกเรา
 
 [countdown]
 
-[robotic voice] Inserimento del fascio di protoni nel Large Hadron Collider.
+[robotic voice] 
+
+เติมลำอนุภาคโปรตอนเข้าไปใน Large Hadron Collider ได้
 
 ## Seventh video: Maria Elena Ascioti (meeting room) 7:13 to 4:50
 
 Setting: conference room with slide in the backdrop
 
-E quindi, finalmente, come vi dicevo, abbiamo trovato il bosone di Higgs la cui massa è......la cui massa e'....scusate un secondo devo fare una chiamata.
+และแล้วในที่สุด ตอนนี้ตามที่ฉันได้กล่าวไว้ เราก็พบฮิกส์โบซอนแล้ว ซึ่งมีมวล... มีมวล... เอ๊ะ ขอโทษนะ ขอฉันโทรศัพท์สักครู่นะ
 
 [ring, about 5 seconds]
 
-Pronto ragazzi di HEPscape, aiuto aiuto. 
-Mi serve un'informazione. 
-Sapete darmi una mano per favore? Quanto vale la massa del bosone di Higgs? 
-Più forte non vi sento. 
-Più forte? 
-Grazie mille, grazie mille, grazie!
+สวัสดีทุกคนจาก HEPScape ฉันต้องการความช่วยด้วย ช่วยฉันด้วยนะ
+ฉันต้องการข้อมูลบางอย่าง
+คุณช่วยฉันหน่อยได้ไหม? ได้โปรดบอกฉันทีว่า มวลของฮิกส์โบซอนคือเท่าไหร่กันนะ?
+พูดดังๆ หน่อยซิ ฉันไม่ได้ยิน
+ดังขึ้นอีกหน่อยได้ไหม?
+ขอบคุณมาก ขอบคุณมากๆ ขอบคุณนะ!
 
-[mette giu' il telefono]
 
-Ok scusatemi ci sono. Quindi come dicevamo abbiamo trovato il bosone di Higgs la cui massa risulta essere 125 GeV. 
+[Hang up the phone]
 
-Con questo vi ringrazio per la partecipazione e per l'attenzione.
+โอเค ขอโทษทีนะ ตอนนี้เรียบร้อยแล้วล่ะ อย่างที่เราได้พูดกันก่อนหน้านี้ เราพบฮิกส์โบซอนซึ่งมีมวลเท่ากับ 125 GeV!
+
+ตอนนี้ภารกิจสำเร็จแล้ว ฉันขอขอบคุณทุกคนที่ได้เข้าร่วมและให้ความสนใจมาตลอดมาถึงตอนนี้นะ!
