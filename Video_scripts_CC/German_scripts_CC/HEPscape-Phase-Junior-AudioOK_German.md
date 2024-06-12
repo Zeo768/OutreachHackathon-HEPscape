@@ -11,6 +11,11 @@ Hallo, willkommen im CERN Forschungszentrum, die Heimat des leistungsstärksten 
 
 Wir befinden uns in Genf, in der Schweiz. Dieses weltweit einzigartige Experiment, der Large Hadron Collider, befindet sich unter uns tief in der Erde. Hinter mir könnt ihr ein fast lebensgroßes Bild eines der Experimente sehen, die die Kollisionen der Teilchen messen.
 
+Wir haben euch jetzt schon viel erzaehlt, also weiter gehts. 
+
+Heute nehmen wir euch mit in die unterirdische Welt, wo ihr selbst f[r einen Tag Forscher:innen sein werdet. Wie ich sehe, habt ihr bereits euren Schutshelm auf, also sucht nach dem Fahrstuhlknopf und auf gehts.
+
+
 ## Second video: Sabrina  Giorgetti (P5) 1:42 to 2:01
 
 Setting: P5, out of the elevator
