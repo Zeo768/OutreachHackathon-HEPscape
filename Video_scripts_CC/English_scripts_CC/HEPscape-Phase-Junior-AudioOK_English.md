@@ -31,7 +31,7 @@ look in the room for the manual that explains the procedures for entering the co
 
 Setting: P5, in front of control room button set
 
-Welcome, you are in the control room of one of the experiments that takes data from the LHC. Here, male and female scientists, as if they were members of the crew of a ship, operate the experiment and take data. Here next to me, you see a panel that shows you what the status of the experiment is at the moment. If all goes well, the lights will be green, otherwise, some lights will turn red.
+Welcome, you are in the control room of one of the experiments that takes data from the LHC. Here, scientists from around the world, as if they were members of the crew of a ship, operate the experiment and take data. Here next to me, you see a panel that shows you what the status of the experiment is at the moment. If all goes well, the lights will be green, otherwise, some lights will turn red.
 
 [siren alarm]
 
