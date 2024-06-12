@@ -11,7 +11,7 @@ Hello, Welcome to the CERN experimental site, where the most powerful particle a
 
 We are located near Geneva, Switzerland, and this unique experiment in the world, called the Large Hadron Collider or LHC, is built underground. Behind me you see an almost life-size image of one of the four experiments used to measure collision particles.
 
-We've talked too much already, so let's get busy.
+We've talked too much already, so let's get to work.
 
 Today we will take you to our underground world and you will become researchers for a day. I can already see that you are wearing the protective helmet, look for the button to call the elevator to go down.
 
