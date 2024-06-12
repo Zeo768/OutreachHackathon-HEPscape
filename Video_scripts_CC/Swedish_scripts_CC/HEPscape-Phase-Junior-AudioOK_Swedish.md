@@ -7,13 +7,13 @@ Italian scripts (original)
 
 Setting: P1 in front of ATLAS layout
 
-Hej, välkomna till CERN:s experimentområde, där världens mest kraftfulla partikelaccelerator, i vilken partiklar rör sig och kolliderar finns.
+Hej, välkomna till CERN:s experimentområde, där världens mest kraftfulla partikelaccelerator, inuti vilken partiklar färdas och kolliderar.
 
-Vi befinner oss nära staden Genève i Schweiz, och detta unika experiment, som kallas Large Hadron Collider eller LHC, är byggt under jord. Bakom mig kan ni se en bild i nästan naturlig storlek av ett av de fyra experiment som används för att mäta partiklarna som kommer från kollisionerna.
+Vi befinner oss nära Genève i Schweiz, och detta unika experiment, som kallas Large Hadron Collider eller LHC, är byggt under jord. Bakom mig kan ni se en bild i nästintill naturlig storlek av ett av de fyra experimenten som används för att mäta partiklarna som kommer från kollisionerna.
 
-Vi har redan pratat för mycket, så låt oss gå vidare.
+Okej, vi har redan pratat för mycket, så låt oss gå vidare.
 
-I dag ska vi ta med er in i vår underjordiska värld och ni ska bli forskare för en dag. Jag ser redan att ni har på er era skyddshjälmar, håll utkik efter knappen för att kalla ner hissen.
+I dag ska vi ta med er in i vår underjordiska värld och ni ska bli forskare för en dag. Jag ser redan att ni har på er era skyddshjälmar, leta efter knappen för att kalla ner hissen så åker vi ner.
 
 ## Second video: Sabrina  Giorgetti (P5) 1:42 to 2:01
 
@@ -31,7 +31,7 @@ leta runt i rummet efter manualen som förklarar hur man går in i kontrollrumme
 
 Setting: P5, in front of control room button set
 
-Välkommen, du befinner dig i kontrollrummet för ett av experimenten som tar emot data från LHC. Här kör forskare, som om de vore besättningsmedlemmar på ett fartyg, experimentet och tar data. Här bredvid mig ser du en panel som visar vilken status experimentet har för tillfället. Om allt går bra är lamporna gröna, annars kommer vissa lampor att bli röda.
+Välkommen, du befinner dig i kontrollrummet för ett av experimenten som tar emot data från LHC. Här styr forskare, som om de vore besättningsmedlemmar på ett fartyg, experimentet och samlar data. Här bredvid mig ser du en panel som visar statusen på experimentet för tillfället. Om allt går bra är lamporna gröna, annars kommer vissa lampor att bli röda.
 
 [siren tjuter]
 
@@ -53,9 +53,9 @@ Mycket bra, vi har ställt in rätt temperatur och magneterna är redo för inf�
 
 Setting: R1, in front of LHC beam
 
-Dessa magneter, som är uppradade bakom varandra längs en omkrets på 27 km, bildar acceleratorn. Inuti roterar de partiklar i två motsatta riktningar, som sedan kolliderar i närheten av de fyra huvudexperimenten.
+Dessa magneter, som är uppradade bakom varandra längs en omkrets på 27 km, bildar acceleratorn. Inuti roterar partiklar i två motsatta riktningar, som sedan kolliderar i närheten av de fyra huvudexperimenten.
 
-Du måste veta att hela partikelvärlden beskrivs av en elegant och vacker teori, som vi kallar standardmodellen.
+Hela partikelvärlden beskrivs av en elegant och vacker teori, som vi kallar standardmodellen av elementarpartiklar.
 
 Men vilka av alla dessa partiklar är de rätta att placera i LHC? Kom igen, en sista ansträngning, hjälp oss att räkna ut det.
 
@@ -63,7 +63,7 @@ Men vilka av alla dessa partiklar är de rätta att placera i LHC? Kom igen, en 
 
 Setting: P5, in front of control room button set
 
-Ni har byggt om alla pussel och magneterna och protonerna är äntligen tillbaka på plats. Vi kan nu starta om kollisionerna vid LHC. Men har du någonsin undrat vad dessa kollisioner är till för? Är du inte lite nyfiken?
+Nu har löst alla pussel, och magneterna och protonerna är äntligen tillbaka på plats. Vi kan nu starta om kollisionerna vid LHC. Men har du någonsin undrat vad dessa kollisioner är till för? Är du inte lite nyfiken?
 
 [endast ljudinspelning].
 
@@ -71,7 +71,7 @@ Ta protonerna i LHC och låt dem kollidera nästan med ljusets hastighet mot var
 
 [tillbaka till Chiara].
 
-OK, vi trycker på knappen för att starta experimentet. Du hittar knappen i rummet och startar LHC tillsammans med oss.
+OK, nu trycker vi på knappen för att starta experimentet. Du hittar knappen i rummet och startar LHC tillsammans med oss.
 
 [nedräkning].
 
@@ -83,7 +83,7 @@ Och så, slutligen, som jag sa till er, har vi hittat Higgsbosonen vars massa ä
 
 [ring, ca 5 sekunder]
 
-Hallå HEPscape deltagare! Jag behöver lite information. Kan ni hjälpa mig snälla? Vad är massan av Higgsbosonen? Högre, jag kan inte höra er. Högre? Tack så mycket, tack så mycket!
+Hallå HEPscape deltagare! Jag behöver lite information. Kan ni snälla hjälpa mig? Vad är massan av Higgsbosonen? Högre, jag kan inte höra er. Högre! Tack så mycket, tack så mycket!
 
 [lägger ner telefonen]
 
