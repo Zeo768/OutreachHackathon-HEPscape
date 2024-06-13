@@ -87,16 +87,24 @@ Setting: P5, in front of control room button set
 
 Setting: conference room with slide in the backdrop
 
-และแล้วในที่สุด ตอนนี้ตามที่ฉันได้กล่าวไว้ เราก็พบฮิกส์โบซอนแล้ว ซึ่งมีมวล... มีมวล... เอ๊ะ ขอโทษนะ ขอฉันโทรศัพท์สักครู่นะ
+และแล้วในที่สุด ตอนนี้ตามที่ฉันได้กล่าวไว้ เราก็พบฮิกส์โบซอนแล้ว ซึ่งมีมวล... มีมวล... เอ๊ะ ขอโทษนะ ขอฉันโทรศัพท์สักครู่นะ 
 
-[ring, about 5 seconds]
+ฉันต้องโทรหาเพื่อนนักวิทยาศาสตร์ที่ทำงานร่วมกันในสวีเดนชื่อ Kaare Iversen พวกเราจะต้องพูดภาษาอังกฤษเพราะเซิร์นเป็นองค์กรระหว่างประเทศและทุกคนพูดภาษาที่ต่างกัน
+
+[dial phone and ring, about 5 seconds]
+
+[on stage]: “Hi Kaare, have you finished the data analysis for the Higgs boson mass?” [Kaare]: “We’ve not finished the data analysis yet, but maybe the escape room participants have already done it?”
+
+[on stage]: Ok, so we are going to call them. Thanks Kaare! เหมือนว่าทีมที่สวีเดนจะยังทำงานไม่เสร็จนะ แต่ว่าทุกคนที่ HEPScape น่าจะมีคำตอบแล้วล่ะ
+
+[dial phone and ring, about 5 seconds]
 
 สวัสดีทุกคนจาก HEPScape ฉันต้องการความช่วยด้วย ช่วยฉันด้วยนะ
 ฉันต้องการข้อมูลบางอย่าง
 คุณช่วยฉันหน่อยได้ไหม? ได้โปรดบอกฉันทีว่า มวลของฮิกส์โบซอนคือเท่าไหร่กันนะ?
 พูดดังๆ หน่อยซิ ฉันไม่ได้ยิน
-ดังขึ้นอีกหน่อยได้ไหม?
-ขอบคุณมาก ขอบคุณมากๆ ขอบคุณนะ!
+ดังขึ้นอีกหน่อยได้ไหม? [wait 2-3 seconds]
+ขอบคุณมาก ขอบคุณมากๆ ขอบคุณนะ! [wait 2-3 seconds]
 
 
 [Hang up the phone]
