@@ -83,15 +83,22 @@ OK, let's push the button to start the experiment. You find the button in the ro
 
 Setting: conference room with slide in the backdrop
 
-And so, finally, as I was telling you, we have found the Higgs boson whose mass is......whose mass is....excuse me for a second I have to make a call.
+And so, finally, as I was telling you, we have found the Higgs boson whose mass is......whose mass is....excuse me for a second I have to make a call to one of my colleagues in Sweden, Kaare Iversen. We will have to speak English because we work in an international collaboration and everyone speaks a different language.  
 
-[ring, about 5 seconds]
+[dial phone and ring, about 5 seconds]
+
+[on stage]: “Hi Kaare, have you finished the data analysis for the Higgs boson mass?”
+[Kaare]: “We’ve not finished the data analysis yet, but maybe the escape room participants have already done it?” 
+
+[on stage]: Ok, so we are going to call them. Thanks Kaare! 
+
+[dial phone and ring, about 5 seconds]
 
 Hello guys from HEPscape, help help.
 I need some information.
 Can you give me a hand, please? What is the mass of the Higgs boson?
-Louder, I can't hear you.
-Louder?
+Louder, I can't hear you. [wait 2-3 seconds]
+Louder? [wait 2-3 seconds]
 Thank you very much, thank you very much, thank you!
 
 [Hang up the phone]
