@@ -79,14 +79,24 @@ OK, nu trycker vi på knappen för att starta experimentet. Du hittar knappen i 
 
 ## Seventh video: Maria Elena Ascioti (meeting room) 7:13 to 4:50
 
-Och så, slutligen, som jag sa till er, har vi hittat Higgsbosonen vars massa är ...... vars massa är .... ursäkta mig en sekund jag måste ringa ett samtal.
+Och så, slutligen, som jag höll på att berätta för er, har vi hittat Higgsbosonen vars massa är...... vars massa är.... ursäkta mig en sekund, jag måste ringa ett samtal till en av mina kollegor i Danmark, Kaare Iversen. Vi måste tala engelska eftersom vi arbetar i ett internationellt samarbete och alla talar olika språk.
 
-[ring, ca 5 sekunder]
+[dial phone and ring, about 5 seconds]
 
-Hallå HEPscape deltagare! Jag behöver lite information. Kan ni snälla hjälpa mig? Vad är massan av Higgsbosonen? Högre, jag kan inte höra er. Högre! Tack så mycket, tack så mycket!
+[on stage]: “Hi Kaare, have you finished the data analysis for the Higgs boson mass?” [Kaare]: “We’ve not finished the data analysis yet, but maybe the escape room participants have already done it?”
 
-[lägger ner telefonen]
+[on stage]: Ok, we're going to call them. Thanks Kaare!
 
-Okej, ursäkta mig, jag har det. Så som vi sa så har vi hittat Higgsbosonen vars massa visar sig vara 125 GeV.
+[dial phone and ring, about 5 seconds]
 
-Med det tackar jag er för ert deltagande och er uppmärksamhet.
+Hej alla från HEPscape, kan ni snälla hjälpa mig. 
+Jag har en snabb fråga. 
+Vad är massan av Higgsbosonen? 
+Högre, jag hör er inte. 
+(Högre?) Tack tack, tack så mycket!
+
+[Lägg på luren]
+
+Okej, ursäkta mig, jag är tillbaka. Så som jag sa har vi hittat Higgsbosonen vars massa visade sig vara 125 GeV.
+
+Med detta tackar jag er för ert deltagande och er uppmärksamhet.
