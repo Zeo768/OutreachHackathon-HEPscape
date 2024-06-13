@@ -83,9 +83,16 @@ OK spingiamo il pulsante per far partire l'esperimento. Trovate voi il pulsante 
 
 Setting: conference room with slide in the backdrop
 
-E quindi, finalmente, come vi dicevo, abbiamo trovato il bosone di Higgs la cui massa è......la cui massa e'....scusate un secondo devo fare una chiamata.
+E quindi, finalmente, come vi dicevo, abbiamo trovato il bosone di Higgs la cui massa è......la cui massa e'....scusate un secondo devo fare una chiamata al mio collega in Svezia, Kaare Iversen. Dovremo parlare inglese perche' lavoriamo in una collaborazione internazionale dove ognuno parla una lingua diversa. 
 
-[ring, about 5 seconds]
+[dial phone and ring, about 5 seconds]
+
+[on stage]: “Hi Kaare, have you finished the data analysis for the Higgs boson mass?” 
+[Kaare]: “We’ve not finished the data analysis yet, but maybe the escape room participants have already done it?”
+
+[on stage]: Ok, so we are going to call them. Thanks Kaare!
+
+[dial phone and ring, about 5 seconds]
 
 Pronto ragazzi di HEPscape, aiuto aiuto. 
 Mi serve un'informazione. 
